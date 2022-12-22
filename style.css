@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15rem 5rem 5rem 1rem;
+    padding: 2rem;
+    flex-direction: column;
+    border: solid;
+    width: 20rem;
+    height: 20rem;
+}
+
+.container-form {
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+.login {
+    margin-bottom: 0.5rem;
+}
+
+.login-input {
+    margin-bottom: 0.5rem;
+}
+
+.senha {
+    margin-bottom: 0.5rem;
+}
+
+.senha-input {
+    margin-bottom: 0.5rem;
+}
+
+.acessar {
+    background-color: #0069f8;
+    color: white;
+    padding: .6rem;
+    width: 10rem;
+    border: none;
+}
+
+.grupo {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+.imagem {
+    margin-top: 3rem;
+}
